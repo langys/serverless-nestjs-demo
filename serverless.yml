@@ -1,0 +1,5 @@
+express:
+    component: 'serverless-nestjs-for-tencent'
+    inputs:
+      region: ap-guangzhou
+#      codeUri: './dist'
